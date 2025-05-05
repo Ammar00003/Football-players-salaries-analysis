@@ -19,7 +19,7 @@ This project analyses:
 - Tools: Git, GitHub, GitPod
 
 ## Sample Output
-![Top Earners Plot](plots/top_earners.png)  
+![Top Earners Plot](plots/top_earners_in_league.png)  
 *(Example visualisation from the analysis)*
 
 ## How to Run
